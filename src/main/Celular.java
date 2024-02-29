@@ -1,3 +1,5 @@
+package main;
+
 public class Celular {
     //Características - Atributos
     String nome;
